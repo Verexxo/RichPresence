@@ -1,13 +1,12 @@
-Main Features
+Main Features:
+1- Logo and Small Logo 🎁
+ 2- button1 & button2 😇
+  3- Number of Players 👀
 
-1- create an application on https://discord.com/developers/applications/
+Installing:
+1- Create an application on https://discord.com/developers/applications/
+ 2- Put a logo in Rich Presence 🤍
+  3- Add DiscordAppID in client.lua and change your info 😎
 
-2- put a logo in Rich Presence 🤍
-
-3- add DiscordAppID
-
-Download it and Start it 😍
-
-cd https://github.com/achrafhkdk/RichPresence
-
+Download it and Start it in Cfg 😍
 start RichPresence
