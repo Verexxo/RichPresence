@@ -1,3 +1,5 @@
+Main Features
+
 1- create an application on https://discord.com/developers/applications/
 
 2- put a logo in Rich Presence 🤍
